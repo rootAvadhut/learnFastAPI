@@ -1,0 +1,10 @@
+# Ignore virtual environment
+learnFast/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
